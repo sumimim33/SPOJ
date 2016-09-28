@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1452924956 source:f:\spoj\ae00 rectangles\main.cpp
+	<bits/stdc++.h>
+
+1452920213 source:f:\spoj\ae00 rectangles\a.c
+	<stdio.h>
+	<math.h>
+
